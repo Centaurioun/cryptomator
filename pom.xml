@@ -22,6 +22,10 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.jdk.version>19</project.jdk.version>
+		
+		<!-- Sonar config -->
+		<sonar.organization>centaurioun</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 
 		<!-- Group IDs of jars that need to stay on the class path for now -->
 		<!-- Once hypfvieh, swiesend, purejava and integrations-linux have module-info, remove them-->
