@@ -22,7 +22,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.jdk.version>19</project.jdk.version>
-		
+
 		<!-- Sonar config -->
 		<sonar.organization>centaurioun</sonar.organization>
   		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
