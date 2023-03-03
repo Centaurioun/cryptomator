@@ -52,7 +52,7 @@
 		<jwt.version>4.2.1</jwt.version>
 		<nimbus-jose.version>9.25.4</nimbus-jose.version>
 		<logback.version>1.4.4</logback.version>
-		<slf4j.version>2.0.3</slf4j.version>
+		<slf4j.version>2.0.6</slf4j.version>
 		<tinyoauth2.version>0.5.1</tinyoauth2.version>
 		<zxcvbn.version>1.7.0</zxcvbn.version>
 
